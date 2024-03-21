@@ -25,7 +25,7 @@ The Lancet Infectious Diseases, 2021; <a href="https://www.thelancet.com/journal
 ---
 
 ### 2024 paper
-This paper gives an update of drug-resistant prevalence in the GMS, also known as "the second GenRe-Mekong paper"
+This paper gives an update of drug-resistant prevalence in the GMS, also known as _"the second GenRe-Mekong paper"_
 
 
 
