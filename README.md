@@ -14,7 +14,7 @@ eLife, 2021; <a href="https://elifesciences.org/articles/62997" target="_blank">
 ---
 
 ### 2022 outbreak paper
-This paper uses genetic analysis to investigate a _Plasmodium falciparum_ outbreak in Attapeu Province, Laos, during the 2020-21 malaria season
+In addition to routine genetic surveillance, the GeRe-Mekong project addresses other use cases relevant to near-elimination scenerios. This paper demonstrates the use of genetic methods to investigate a _Plasmodium falciparum_ outbreak in Attapeu Province, Laos, during the 2020-21 malaria season.
 
 __"Malaria outbreak in Laos driven by a selective sweep for _Plasmodium falciparum kelch13_ R539T mutants: a genetic epidemiology analysis"__
 
