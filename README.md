@@ -4,7 +4,7 @@
 ---
 
 ### 2021 paper
-This paper gives in-depth details of the project, also known as _"the first GenRe-Mekong paper"_
+This paper gives in-depth details of the project, in particular details on operations and methods, as well as impact on public health. 
 
 __"Genetic surveillance in the Greater Mekong Subregion and South Asia to support malaria control and elimination"__
 
@@ -25,8 +25,10 @@ The Lancet Infectious Diseases, 2021; <a href="https://www.thelancet.com/journal
 ---
 
 ### 2025 paper
-This paper gives an update of drug-resistant prevalence in the GMS, also known as _"the second GenRe-Mekong paper"_
+This paper gives an update of drug-resistant prevalence in the GMS, following treatment policy revisions.
+__"Genetic surveillance of Plasmodium falciparum populations following treatment policy revisions in the Greater Mekong Subregion"__
 
+Nature Communications (under review)
 
 
 ---
