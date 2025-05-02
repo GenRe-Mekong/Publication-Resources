@@ -26,6 +26,7 @@ The Lancet Infectious Diseases, 2021; <a href="https://www.thelancet.com/journal
 
 ### 2025 paper
 This paper gives an update of drug-resistant prevalence in the GMS, following treatment policy revisions.
+
 __"Genetic surveillance of Plasmodium falciparum populations following treatment policy revisions in the Greater Mekong Subregion"__
 
 Nature Communications (under review)
