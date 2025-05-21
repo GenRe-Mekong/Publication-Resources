@@ -25,11 +25,11 @@ The Lancet Infectious Diseases, 2021; <a href="https://www.thelancet.com/journal
 ---
 
 ### 2025 paper
-This paper gives an update of drug-resistant prevalence in the GMS, following treatment policy revisions.
+This paper highlights the changes in genetic epidemiology of resistant malaria following treatment policy revisions in the GMS (2017-2022).
 
-__"Genetic surveillance of Plasmodium falciparum populations following treatment policy revisions in the Greater Mekong Subregion"__
+__"Genetic surveillance of *Plasmodium falciparum* populations following treatment policy revisions in the Greater Mekong Subregion"__
 
-Nature Communications (under review)
+Nature Communications, 2025; <a href="https://www.nature.com/articles/s41467-025-59946-1.epdf?sharing_token=W4Ma-LJz3XXNW5RRWZc0dNRgN0jAjWel9jnR3ZoTv0NrY2iQEZgs2Pza0uCrVEErPm5P9AcsrwgOG2vGVajk4XUp4EfeTixQyqnlzxaROvlD9l7GKetXnb3NcFhaL0f1x-c5QaWVHYhbZMzRN_eGwoPc80MUR0YYnQZpsHsn3Y4%3D" target="_blank">DOI: 10.1038/s41467-025-59946-1</a>
 
 
 ---
